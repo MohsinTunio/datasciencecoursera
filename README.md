@@ -1,4 +1,6 @@
-- This project excercise utilizes mobile phone sensor train and test datasets from www.smartlab.ws
+*** run_analysis.R***
+
+This project excercise utilizes mobile phone sensor train and test datasets from www.smartlab.ws
 - It merges the two datasets and looks for mean and standard deviations
 - The required packages are read.table() and reshape2()
 ***The Steps are as Follow***
